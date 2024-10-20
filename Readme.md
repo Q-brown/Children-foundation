@@ -1,8 +1,8 @@
-### cloth
+### Orphanage 
 #### Made by bruno
-### A cloth selling website
+### A  Orphanage home
 ####  description
-* _It is a cloth selling website where people can come and buy cloth
+* _It is a Orphanage website where people can come and adopt orphans
 ### Technologies used
 * _ Html_
 * _Gitbash_
